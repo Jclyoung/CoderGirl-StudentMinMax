@@ -18,7 +18,7 @@ namespace Test
                 {
                     Console.SetIn(sr);
 
-                    Program.Main();
+                    GetGradesFromFileData.Main();
                 }
 
                 var result = sw.ToString().Split(Environment.NewLine);
@@ -38,7 +38,7 @@ namespace Test
                 {
                     Console.SetIn(sr);
 
-                    Program.Main();
+                    GetGradesFromFileData.Main();
                 }
 
                 var result = sw.ToString().Split(Environment.NewLine);
@@ -58,7 +58,7 @@ namespace Test
                 {
                     Console.SetIn(sr);
 
-                    Program.Main();
+                    GetGradesFromFileData.Main();
                 }
 
                 var result = sw.ToString().Split(Environment.NewLine);
@@ -78,7 +78,7 @@ namespace Test
                 {
                     Console.SetIn(sr);
 
-                    Program.Main();
+                    GetGradesFromFileData.Main();
                 }
 
                 var result = sw.ToString().Split(Environment.NewLine);
@@ -98,7 +98,7 @@ namespace Test
                 {
                     Console.SetIn(sr);
 
-                    Program.Main();
+                    GetGradesFromFileData.Main();
                 }
 
                 var result = sw.ToString().Split(Environment.NewLine);
