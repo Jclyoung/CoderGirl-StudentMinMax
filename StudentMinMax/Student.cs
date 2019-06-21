@@ -11,6 +11,12 @@
             Scores = scores;
         }
 
+        public Student()
+        {
+            Name = "name";
+            Scores = new int[] { };
+        }
+
 
         public int? GetMaximumScore()
         {
